@@ -1,4 +1,4 @@
-# Uninitialized variable
+# Uninitialized variable ![Badge](https://img.shields.io/badge/TrustInSoft-Verified-green.svg)
 
 ## Where can I replay this example?
 
