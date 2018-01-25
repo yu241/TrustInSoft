@@ -1,3 +1,14 @@
+## 0.4.3-beta (2018/01/25)
+
+### News
+
+- Many server-side changes to improve performances.
+- Creation of a link to (un)subscribe to the TaaS newsletter.
+- Add a button to open a new page to the GitHub project page.
+
+### Bugfixes
+
+
 ## 0.4.2-beta (2017/11/29)
 
 ### News
