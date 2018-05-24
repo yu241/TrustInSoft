@@ -9,7 +9,7 @@ int main(void)
            expression '2 << i'. In particular, the analyzer is not able to
            guarantee '0 ≤ (int)(2<<i) < 32' valid (on x86 architecture).
 
-           Note that, as soon as the variable 'i' takes the value 5, the
+           Note that, as soon as the variable 'i' takes the value 4, the
            left-shift expression '2 << i' evaluates to 32. Hence, '1 << (2 <<
            i)' reduces to '1 << 32'.
 
