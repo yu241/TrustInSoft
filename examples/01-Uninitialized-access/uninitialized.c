@@ -1,7 +1,7 @@
 int main(void)
 {
   int array[5] = {13, 7, 42, 0, 1};
-  int i, n;
+  int i, n=0;
 
   for (i = 0; i < 5; i++) {
     /* The variable 'n' is declared at line 4, but is never
